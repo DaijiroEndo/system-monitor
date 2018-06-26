@@ -1,6 +1,6 @@
 {
   "name": "system-monitor",
-  "version": "0.2"
+  "version": "0.2",
   "description": "test",
   "main": "server.py",
   "author": "Daijiro Endo",
