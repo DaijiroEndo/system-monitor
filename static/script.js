@@ -14,7 +14,7 @@ Highcharts.chart('chart', {
             .end(function(err, res){
               let x = (new Date()).getTime(),
                   y = res.body.cpu_percent;
-     
+
               series.addPoint([x, y], true, true);
             });
         }, 3000);

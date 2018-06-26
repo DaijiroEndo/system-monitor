@@ -1,13 +1,11 @@
 {
   "name": "system-monitor",
-  "version": "",
-  "description": "",
+  "version": "0.1",
+  "description": "test",
   "main": "server.py",
-  "author": "",
-  "license": "",
-  "language":"python",
+  "author": "Daijiro Endo",
+  "license": "MIT Licence",
   "scripts": {
-	"start": "python3 -u server.py"
-  },
-  "dependency": null
+	"start": "python -u server.py"
+  }
 }
